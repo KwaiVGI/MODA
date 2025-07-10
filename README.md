@@ -1,6 +1,6 @@
 <div align=center>
     <img src="assets/logo1.png" width=15%>
-    <h1>MODA: MOdular Duplex Attention for <br>Multimodal Perception, Cognition, and Emotion Understanding</h1>
+    <h1>MODA: MOdular Duplex Attention for Multimodal Perception, Cognition, and Emotion Understanding</h1>
 
 <div class="is-size-5 publication-authors">
 <span class="author-block">
@@ -57,7 +57,7 @@
 <!-- [📃 [中译版](https://zzcheng.top/assets/pdf/2024_CVPR_ExtDM_chinese.pdf) ] -->
 <!-- [🎞️ [Video](https://www.bilibili.com/video/BV1dC411E72q) / [YouTube](https://www.youtube.com/watch?v=1hxOUagr8mM) ] -->
 
-<img src="assets/pipeline.png" width=400 />
+<img src="assets/pipeline.png" width=800 />
 </div>
 
 > **TL;DR**: We i) identify attention deficit disorder as a critical barrier hindering fine-grained content understanding in MLLMs; ii) introduce a modular duplex attention mechanism to mitigate modality bias and enhance attention score justification; and iii) develop MODA-based MLLMs that enable fine-grained multimodal understanding across perception, cognition, and emotion tasks.
