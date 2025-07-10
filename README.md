@@ -53,8 +53,8 @@
 [📦 [Code](https://github.com/KwaiVGI/MODA) ]
 [⚒️ [Project](https://zzcheng.top/MODA) ]
 [📅 [Slide](https://zzcheng.top/assets/pdf/2025_ICML_MODA_slide.pdf) ]
-<!-- [📊 [Poster](https://zzcheng.top/assets/pdf/2024_CVPR_ExtDM_poster.pdf) ] -->
-<!-- [📃 [中译版](https://zzcheng.top/assets/pdf/2024_CVPR_ExtDM_chinese.pdf) ] -->
+<!-- [📊 [Poster](https://zzcheng.top/assets/pdf/2025_CVPR_ExtDM_poster.pdf) ] -->
+<!-- [📃 [中译版](https://zzcheng.top/assets/pdf/2025_CVPR_ExtDM_chinese.pdf) ] -->
 <!-- [🎞️ [Video](https://www.bilibili.com/video/BV1dC411E72q) / [YouTube](https://www.youtube.com/watch?v=1hxOUagr8mM) ] -->
 
 <img src="assets/pipeline.png" width=800 />
@@ -64,5 +64,5 @@
 
 ## 📈 1. News
 
-- 🔥2024-07-10: Creating repository. The code is uploading ...
-- 2024-05-01: MODA has been accepted to ICML 2025！
+- 🔥2025-07-10: Creating repository. The code is uploading ...
+- 2025-05-01: MODA has been accepted to ICML 2025！
